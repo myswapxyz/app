@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.235846b3.css",
-    "main.js": "/static/js/main.96183d97.js",
+    "main.css": "/static/css/main.f61befd2.css",
+    "main.js": "/static/js/main.993924c2.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/youtube_play.svg": "/static/media/youtube_play.f80a3906ebe9a5ba1bdcccc99f4098c2.svg",
@@ -9,8 +9,9 @@
     "static/media/bg_mobile_new.png": "/static/media/bg_mobile_new.c8c3963f6f75b46310f9.png",
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
     "static/media/banner_coins.png": "/static/media/banner_coins.613c1476860561ef52cb.png",
+    "static/media/horizontalStarkLogo.svg": "/static/media/horizontalStarkLogo.1a8afc72847ac7afd648519ab8e1ddef.svg",
     "static/media/starknetimage.svg": "/static/media/starknetimage.d28db2d42259ff7fbe92713e3c24d7e0.svg",
-    "static/media/reward_badge.svg": "/static/media/reward_badge.6afde3d83a1c6f066e98a06d0ce736cb.svg",
+    "static/media/reward_badge.svg": "/static/media/reward_badge.2ed3a7941c9dce3e6594ab654ed96384.svg",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.1a8634c4ec899e7f050c65a170ec9e79.svg",
     "static/media/failedIcon.svg": "/static/media/failedIcon.9eb5311d12149553037f955eacb82174.svg",
     "static/media/medal.svg": "/static/media/medal.aa9bb757a8e24d211be1bbfc875dc32d.svg",
@@ -60,7 +61,7 @@
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.235846b3.css",
-    "static/js/main.96183d97.js"
+    "static/css/main.f61befd2.css",
+    "static/js/main.993924c2.js"
   ]
 }
