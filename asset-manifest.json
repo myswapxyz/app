@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.068cc5c0.css",
-    "main.js": "/static/js/main.c2d1a04d.js",
+    "main.css": "/static/css/main.9f64fb78.css",
+    "main.js": "/static/js/main.c10467dd.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/youtube_play.svg": "/static/media/youtube_play.f80a3906ebe9a5ba1bdcccc99f4098c2.svg",
@@ -32,19 +32,24 @@
     "static/media/zoom_out.svg": "/static/media/zoom_out.7294e3192ea1d5e878263c6c052ae66a.svg",
     "static/media/accept.svg": "/static/media/accept.0a59c961f13e3d11dc07ef10dac90313.svg",
     "static/media/first_place.svg": "/static/media/first_place.029c62bfa0462fa56979e7ff8ea3d4eb.svg",
+    "static/media/completed.svg": "/static/media/completed.1ec77a91fd77783a0541b11981102c95.svg",
     "static/media/search_icon.svg": "/static/media/search_icon.dec6a24bccb13a07c5600f683eee58c4.svg",
     "static/media/unknown_token.svg": "/static/media/unknown_token.a5662846cd9bb9e0b66937384c7ef10f.svg",
+    "static/media/clock.svg": "/static/media/clock.6b776901127f875ea3fb987f93a57f37.svg",
     "static/media/pending.svg": "/static/media/pending.6c8918f4457c702585bb466a1e8d76b2.svg",
     "static/media/discord.svg": "/static/media/discord.65d009484ef84d8910d6c19883734389.svg",
     "static/media/stars.svg": "/static/media/stars.ad7583746b067c774e6ab7927eb53f5c.svg",
+    "static/media/lock.svg": "/static/media/lock.236aa551f6ae9949959d99d95c14ac0a.svg",
     "static/media/helptip.svg": "/static/media/helptip.62c42550c940843b5d68458acc14b9a3.svg",
     "static/media/leaderboard.svg": "/static/media/leaderboard.5001b1e9dd12074306276179890abe1b.svg",
     "static/media/apr_star.svg": "/static/media/apr_star.d671ba25cf799e11e303d95f3b909b99.svg",
     "static/media/telegram.svg": "/static/media/telegram.13de47dbaca3897ce2c0d11a1325478f.svg",
     "static/media/alert.svg": "/static/media/alert.4bdd84aa0354a0d23cb5fa8a042c93aa.svg",
+    "static/media/calendar.svg": "/static/media/calendar.e60fb5c2edc38a8366b169a903d7d1e3.svg",
     "static/media/plusIcon.svg": "/static/media/plusIcon.22a1ce5f121800c92967e6cd839a740e.svg",
     "static/media/leave.svg": "/static/media/leave.b23a74d9ab10fa3e07d0436b76253df2.svg",
     "static/media/outgoingLink.svg": "/static/media/outgoingLink.708671f79303a94a13c5c52b0509ac61.svg",
+    "static/media/incentive_wink.svg": "/static/media/incentive_wink.8911e5f6fc0e25df98b35ba23d3372c9.svg",
     "static/media/xIcon.svg": "/static/media/xIcon.7e7cbb905e15d59046eb6af1ba6d7df9.svg",
     "static/media/close.svg": "/static/media/close.c0731513dd900d4a88cee4e0f203c4d1.svg",
     "static/media/LegacyV1.svg": "/static/media/LegacyV1.46a1c284ea95e49df341d73c152bf1c1.svg",
@@ -55,6 +60,7 @@
     "static/media/twitter.svg": "/static/media/twitter.921352cade9295bc966c0ff43a4ec1df.svg",
     "static/media/backIcon.svg": "/static/media/backIcon.ab4fb0b50c9e3761ba6597dde5aad467.svg",
     "static/media/more.svg": "/static/media/more.ebd9e904589a86870c4b2e715ee69a78.svg",
+    "static/media/in_progress.svg": "/static/media/in_progress.7980e337968aaa09b800b11a9b36f91f.svg",
     "static/media/swap.svg": "/static/media/swap.b794b35879b776e294808f50c6f76bf9.svg",
     "static/media/arrowDown.svg": "/static/media/arrowDown.4b49460d72d63c708a30c5b95ab9ddb9.svg",
     "static/media/switch.svg": "/static/media/switch.07af378503e9414f52531115d2f39f73.svg",
@@ -68,7 +74,7 @@
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.068cc5c0.css",
-    "static/js/main.c2d1a04d.js"
+    "static/css/main.9f64fb78.css",
+    "static/js/main.c10467dd.js"
   ]
 }
